@@ -1,0 +1,52 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  background-image: url("src/img/pattern.webp");
+  color: khaki;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.brushes {
+  background-color: mediumspringgreen;
+}
+
+.frames {
+  background-color: lightcoral;
+}
+
+.paint {
+  background-color: skyblue;
+}
+
+img {
+  display: block;
+}
+
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  color: black;
+  font-weight: bold;
+  text-align: left;
+}
+
+p {
+  color: black;
+  text-align: left;
+}
+
+.price {
+  font-family: Helvetica, Arial, sans-serif;
+  color: blue;
+  font-weight: bold;
+}
